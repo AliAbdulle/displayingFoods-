@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.listDom{
+    border: 2px solid black;
+    padding: 10px;
+}
